@@ -1,0 +1,419 @@
+[
+  {
+    "submitter_id": "cd998c1b-b6d7-4ef1-9fd4-97e7039ae643",
+    "projects": [
+      {
+        "code": "ProjA"
+      },
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "American Indian or Alaska Native",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "f1f3e0ce-94f5-4d9f-9a18-cff654be5a27",
+    "projects": [
+      {
+        "code": "ProjB"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "White",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "a3aa078b-a5f7-46b7-8524-d44d334e6106",
+    "projects": [
+      {
+        "code": "ProjA"
+      },
+      {
+        "code": "ProjC"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Multiracial",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "5b5b7fc8-a505-4b4b-a62f-be6cbf2d4382",
+    "projects": [
+      {
+        "code": "ProjB"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Not Reported",
+    "race": "American Indian or Alaska Native",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "4e40381c-f797-4264-bffd-06472891a928",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Hispanic or Latino",
+    "race": "American Indian or Alaska Native",
+    "sex": "Female",
+    "type": "person"
+  },
+  {
+    "submitter_id": "74e70165-acbd-4e46-9397-39202b53691c",
+    "projects": [
+      {
+        "code": "ProjC"
+      },
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Asian",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "cb1125e6-0a82-433e-beb4-6f64e802969b",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Black or African American",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "922dd1a6-4d65-446b-8388-29f7af10c1bf",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Hispanic or Latino",
+    "race": "Multiracial",
+    "sex": "Not Reported",
+    "type": "person"
+  },
+  {
+    "submitter_id": "d03173bb-348b-4058-8d4a-00f552081f8d",
+    "projects": [
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Native Hawaiian or Other Pacific Islander",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "465c0e19-2bd1-441c-82af-3ef24bb47713",
+    "projects": [
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Other",
+    "sex": "Not Reported",
+    "type": "person"
+  },
+  {
+    "submitter_id": "659747e8-4844-4fe0-ba39-dcd9e22e00ea",
+    "projects": [
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Not Reported",
+    "race": "Not Reported",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "ec3eb23c-ebe2-4ee7-9fbf-d739824d2bec",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjC"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "White",
+    "sex": "Female",
+    "type": "person"
+  },
+  {
+    "submitter_id": "9b8f4d10-37ce-46ed-b22a-b55a2a1efaef",
+    "projects": [
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Other",
+    "sex": "Unknown",
+    "type": "person"
+  },
+  {
+    "submitter_id": "ef873316-5fce-487d-a959-3f8fdaaa370e",
+    "projects": [
+      {
+        "code": "ProjB"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Multiracial",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "5e2c9382-6ffb-4d2b-bddf-a847363796be",
+    "projects": [
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Not Reported",
+    "race": "Unknown",
+    "sex": "Undifferentiated",
+    "type": "person"
+  },
+  {
+    "submitter_id": "432b962c-c9ed-4372-85cb-eee452d2a0c1",
+    "projects": [
+      {
+        "code": "ProjC"
+      }
+    ],
+    "ethnicity": "Not Reported",
+    "race": "Other",
+    "sex": "Male",
+    "type": "person"
+  },
+  {
+    "submitter_id": "2004ffe4-c722-46f2-8723-115537e898ad",
+    "projects": [
+      {
+        "code": "ProjA"
+      },
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Not Reported",
+    "race": "American Indian or Alaska Native",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "0bf267c5-cab1-4fb0-ba5e-58ac669a7167",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Not Reported",
+    "sex": "Male",
+    "type": "person"
+  },
+  {
+    "submitter_id": "1180e384-ca90-43b0-98e6-e56b60040d26",
+    "projects": [
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Unknown",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "637b35df-99c2-4d84-83d0-48340f502c85",
+    "projects": [
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Hispanic or Latino",
+    "race": "Unknown",
+    "sex": "Not Reported",
+    "type": "person"
+  },
+  {
+    "submitter_id": "22eb84a1-22c4-4642-83d8-174b8b69eef4",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjC"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "American Indian or Alaska Native",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "7fa86c19-06fc-44ca-bfab-c1feb3065541",
+    "projects": [
+      {
+        "code": "ProjB"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Hispanic or Latino",
+    "race": "White",
+    "sex": "Other",
+    "type": "person"
+  },
+  {
+    "submitter_id": "ca871463-1db8-421e-99a2-02ab941f6e10",
+    "projects": [
+      {
+        "code": "ProjA"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Hispanic or Latino",
+    "race": "American Indian or Alaska Native",
+    "sex": "Unknown",
+    "type": "person"
+  },
+  {
+    "submitter_id": "e40d8dd7-002f-43be-b78d-28bdf002e160",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Unknown",
+    "sex": "Unknown",
+    "type": "person"
+  },
+  {
+    "submitter_id": "746c6c9b-aa8a-45a8-b06f-a66079813438",
+    "projects": [
+      {
+        "code": "ProjB"
+      },
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Asian",
+    "sex": "Unknown",
+    "type": "person"
+  },
+  {
+    "submitter_id": "d539e365-8c38-43da-8e61-ee493b0962f6",
+    "projects": [
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Unknown",
+    "sex": "Male",
+    "type": "person"
+  },
+  {
+    "submitter_id": "3de18971-600e-4f94-be84-bdae07ced161",
+    "projects": [
+      {
+        "code": "ProjD"
+      },
+      {
+        "code": "ProjD"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Unknown",
+    "sex": "Female",
+    "type": "person"
+  },
+  {
+    "submitter_id": "f8959662-e191-4ea2-9f12-51a683b9f37f",
+    "projects": [
+      {
+        "code": "ProjC"
+      },
+      {
+        "code": "ProjA"
+      }
+    ],
+    "ethnicity": "Unknown",
+    "race": "Multiracial",
+    "sex": "Unknown",
+    "type": "person"
+  },
+  {
+    "submitter_id": "1212b48a-855f-4ac3-90b1-8d30a913661d",
+    "projects": [
+      {
+        "code": "ProjB"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Asian",
+    "sex": "Not Reported",
+    "type": "person"
+  },
+  {
+    "submitter_id": "bd58faa6-ee76-49c0-ad30-70b56b66ac0a",
+    "projects": [
+      {
+        "code": "ProjC"
+      }
+    ],
+    "ethnicity": "Not Hispanic or Latino",
+    "race": "Multiracial",
+    "sex": "Unknown",
+    "type": "person"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "submitter_id": "e40d8dd7-002f-43be-b78d-28bdf002e160",
+    "age_at_hist_assessment": 4255.54,
+    "histology": "Rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 48.01,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Rhabdomyosarcoma",
+    "timings": [
+      {
+        "submitter_id": "423d9036-4d5b-447f-90b9-c816ceac7ec4"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "74e70165-acbd-4e46-9397-39202b53691c",
+    "age_at_hist_assessment": 561.01,
+    "histology": "Alveolar soft-part sarcoma",
+    "histology_grade": "FNCLCC, Grade 2",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 29.55,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Sarcoma, NOS",
+    "timings": [
+      {
+        "submitter_id": "baa6aa3a-66a1-48ed-a97b-2c9d147254e1"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "9b8f4d10-37ce-46ed-b22a-b55a2a1efaef",
+    "age_at_hist_assessment": 9511.08,
+    "histology": "Neuroblastoma",
+    "histology_grade": "Undifferentiated or Poorly Differentiated",
+    "hist_ICD_O_morph_code": "8806/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 26.75,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "430d13d0-be1e-4346-83c6-88fe57fbc7c2"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "f1f3e0ce-94f5-4d9f-9a18-cff654be5a27",
+    "age_at_hist_assessment": 8367.46,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "Unknown",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 12.93,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "e603b0ea-5d7e-410c-acee-8d961b6ca55e"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "f8959662-e191-4ea2-9f12-51a683b9f37f",
+    "age_at_hist_assessment": 1233.36,
+    "histology": "Rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 1",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 21.71,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Adenocarcinoma",
+    "timings": [
+      {
+        "submitter_id": "0b7b194a-faf6-41a2-a599-2e352499ffdc"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "1180e384-ca90-43b0-98e6-e56b60040d26",
+    "age_at_hist_assessment": 8808.61,
+    "histology": "Rhabdomyosarcoma",
+    "histology_grade": "Grade 2",
+    "hist_ICD_O_morph_code": "8806/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 68.35,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Other",
+    "timings": [
+      {
+        "submitter_id": "4830c80f-75c2-44b8-9a3e-226e4f00e145"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "9b8f4d10-37ce-46ed-b22a-b55a2a1efaef",
+    "age_at_hist_assessment": 9216.79,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "FNCLCC, Grade 1",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 76.32,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Sarcoma, NOS",
+    "timings": [
+      {
+        "submitter_id": "d29ff80c-2598-4c64-b667-24161bcd5ca9"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "465c0e19-2bd1-441c-82af-3ef24bb47713",
+    "age_at_hist_assessment": 1025.14,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "FNCLCC, Grade GX",
+    "hist_ICD_O_morph_code": "8806/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 45.39,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "eef38cbb-aaa2-443e-9849-4ae61a1b8e9b"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "4e40381c-f797-4264-bffd-06472891a928",
+    "age_at_hist_assessment": 9143.68,
+    "histology": "Alveolar soft-part sarcoma",
+    "histology_grade": "FNCLCC, Grade 2",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 66.53,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Malignant Histiocytosis",
+    "timings": [
+      {
+        "submitter_id": "1126a853-1349-4b8f-9c70-8d1c54a9c446"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "ca871463-1db8-421e-99a2-02ab941f6e10",
+    "age_at_hist_assessment": 1840.11,
+    "histology": "Neuroblastoma",
+    "histology_grade": "Not Reported",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 33.87,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Malignant Histiocytosis",
+    "timings": [
+      {
+        "submitter_id": "c0f2844e-3aac-4edf-baed-129a410468fc"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "e40d8dd7-002f-43be-b78d-28bdf002e160",
+    "age_at_hist_assessment": 5292.97,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Grade 2",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 33.12,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Primitive Neuroectodermal Tumor",
+    "timings": [
+      {
+        "submitter_id": "90d660f6-7c79-4b6d-b531-5caa9b50b91d"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "ec3eb23c-ebe2-4ee7-9fbf-d739824d2bec",
+    "age_at_hist_assessment": 7546.41,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Unknown",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 81.98,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Not Reported",
+    "timings": [
+      {
+        "submitter_id": "09cb539c-10a2-4fb2-8789-202c574f9e9a"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "5e2c9382-6ffb-4d2b-bddf-a847363796be",
+    "age_at_hist_assessment": 8653.24,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 29.03,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Sarcoma, NOS",
+    "timings": [
+      {
+        "submitter_id": "21ae3dc4-26b4-4f2d-931b-573c94d69ca1"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "637b35df-99c2-4d84-83d0-48340f502c85",
+    "age_at_hist_assessment": 3437.56,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "Not Reported",
+    "hist_ICD_O_morph_code": "9490/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 17.44,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "895ab898-1dfc-4606-8f03-4763992b15da"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "ca871463-1db8-421e-99a2-02ab941f6e10",
+    "age_at_hist_assessment": 3825.22,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade GX",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 67.36,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Other",
+    "timings": [
+      {
+        "submitter_id": "cab037da-8c94-477e-8656-d1cdb0eb9805"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "e40d8dd7-002f-43be-b78d-28bdf002e160",
+    "age_at_hist_assessment": 2006.39,
+    "histology": "Alveolar soft-part sarcoma",
+    "histology_grade": "Differentiating",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 25.62,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "1c5b853a-b421-470c-9dd6-99662d030d57"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "1180e384-ca90-43b0-98e6-e56b60040d26",
+    "age_at_hist_assessment": 1888.52,
+    "histology": "Rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "8806/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 32.29,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Unknown",
+    "timings": [
+      {
+        "submitter_id": "c9182b67-75ad-489e-a58b-fb5454581620"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "f8959662-e191-4ea2-9f12-51a683b9f37f",
+    "age_at_hist_assessment": 7431.88,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Grade 2",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 56.99,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Unknown",
+    "timings": [
+      {
+        "submitter_id": "73ea13a0-a5c3-4d0e-a5c6-64554a06ee74"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "cd998c1b-b6d7-4ef1-9fd4-97e7039ae643",
+    "age_at_hist_assessment": 1851.62,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "9581/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 66.66,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Unknown",
+    "timings": [
+      {
+        "submitter_id": "df8fbd00-d10a-4bf1-adca-4b7b970b037b"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "22eb84a1-22c4-4642-83d8-174b8b69eef4",
+    "age_at_hist_assessment": 2971.55,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "FNCLCC, Grade 1",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 54.24,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "750df04e-b874-49b7-9869-9f955312904e"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "cb1125e6-0a82-433e-beb4-6f64e802969b",
+    "age_at_hist_assessment": 989.72,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "Grade 3",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 73.66,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Primitive Neuroectodermal Tumor",
+    "timings": [
+      {
+        "submitter_id": "251e27cb-e041-460e-a59f-d572dce3a30e"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "cd998c1b-b6d7-4ef1-9fd4-97e7039ae643",
+    "age_at_hist_assessment": 2713.8,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Not Reported",
+    "hist_ICD_O_morph_code": "9581/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 73.99,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "e2764d05-e048-4a6c-ae0f-d44eb8ce649b"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "bd58faa6-ee76-49c0-ad30-70b56b66ac0a",
+    "age_at_hist_assessment": 1784.28,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Unknown",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 78.06,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Primitive Neuroectodermal Tumor",
+    "timings": [
+      {
+        "submitter_id": "2d8c7ccd-5467-4b05-827b-159f56c9efce"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "74e70165-acbd-4e46-9397-39202b53691c",
+    "age_at_hist_assessment": 2916.09,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Unknown",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 48.23,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Other",
+    "timings": [
+      {
+        "submitter_id": "0cca52b8-d0b5-4bba-bdfe-073b7002e63c"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "ec3eb23c-ebe2-4ee7-9fbf-d739824d2bec",
+    "age_at_hist_assessment": 3879.23,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "FNCLCC, Grade 2",
+    "hist_ICD_O_morph_code": "8806/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 40.28,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Adenocarcinoma",
+    "timings": [
+      {
+        "submitter_id": "5e3aa920-aa5e-4adc-98e6-f5ec8c51d63e"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "ec3eb23c-ebe2-4ee7-9fbf-d739824d2bec",
+    "age_at_hist_assessment": 3688.3,
+    "histology": "Alveolar soft-part sarcoma",
+    "histology_grade": "Grade 1",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Inconclusive",
+    "histology_result_numeric": 94.01,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Other",
+    "timings": [
+      {
+        "submitter_id": "2deba77c-6aad-462a-b39d-31fd5a43ec18"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "746c6c9b-aa8a-45a8-b06f-a66079813438",
+    "age_at_hist_assessment": 6068.35,
+    "histology": "Desmoplastic small round cell tumour",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 13.58,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Squamous Cell Carcinoma",
+    "timings": [
+      {
+        "submitter_id": "2b0266a0-6f3c-4781-8677-38935d96538d"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "d539e365-8c38-43da-8e61-ee493b0962f6",
+    "age_at_hist_assessment": 1066.52,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Grade 1",
+    "hist_ICD_O_morph_code": "8810/3",
+    "histology_result": "Negative",
+    "histology_result_numeric": 20.71,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Rhabdomyosarcoma",
+    "timings": [
+      {
+        "submitter_id": "60d17709-0c87-46b4-a8d7-90b555c7a36e"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "cd998c1b-b6d7-4ef1-9fd4-97e7039ae643",
+    "age_at_hist_assessment": 5403.27,
+    "histology": "Embryonal rhabdomyosarcoma",
+    "histology_grade": "Grade 1",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 54.53,
+    "histology_result_unit": "%",
+    "somatic_malignancy_type": "Rhabdomyosarcoma",
+    "timings": [
+      {
+        "submitter_id": "68ae0a50-cbf9-4f84-9080-4b2499be3140"
+      }
+    ],
+    "type": "histology"
+  },
+  {
+    "submitter_id": "1212b48a-855f-4ac3-90b1-8d30a913661d",
+    "age_at_hist_assessment": 6066.91,
+    "histology": "Neuroblastoma",
+    "histology_grade": "FNCLCC, Grade 3",
+    "hist_ICD_O_morph_code": "8940/3",
+    "histology_result": "Positive",
+    "histology_result_numeric": 59.11,
+    "histology_result_unit": "NA",
+    "somatic_malignancy_type": "Malignant Histiocytosis",
+    "timings": [
+      {
+        "submitter_id": "b1693508-2e9c-4178-b5a4-ad88ad9f3e27"
+      }
+    ],
+    "type": "histology"
+  }
+]
