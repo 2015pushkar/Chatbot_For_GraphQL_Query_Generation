@@ -50,6 +50,7 @@ The primary goal of this pilot project was to build a functioning prototype chat
 
 ## Demo
 A detailed demonstration video of this pilot project is attached in the README file, showcasing end-to-end functionality from natural language input to data retrieval.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yq-q9Z-Tt6Q/0.jpg)](https://www.youtube.com/watch?v=Yq-q9Z-Tt6Q)
 
 ## Conclusion
 This pilot project successfully validates the core concept of the proposed GSoC project, confirming both its feasibility and value. The demo provides a clear pathway for further enhancements in the main project phase, aligning with Data for the Common Good’s mission to simplify and optimize patient cohort analysis workflows.
