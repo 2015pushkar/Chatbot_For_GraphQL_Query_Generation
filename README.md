@@ -1,57 +1,58 @@
-# **Google Summer of Code Proposal for Data for the Common Good**
+# Google Summer of Code 2025 Proposal
 
-## Project Title
-**Pilot Project: Chatbot for Generating GraphQL Queries from Natural Language Descriptions**
+## **Data for the Common Good (D4CG)**
 
-## Overview
-This pilot project is an initial implementation demonstrating the feasibility of the main idea listed on [Data for the Common Good GSoC Project Ideas](https://docs.pedscommons.org/GSoC/ideas), specifically, **Building a Chatbot for Generating GraphQL and Custom Queries for Cohort Descriptions**. The primary objective is to simplify data exploration by using natural language processing (LLM) to dynamically generate GraphQL queries based on user input, significantly reducing manual interaction with complex user interfaces.
+### **Project Title:**
+**Pilot Project: Chatbot for Generating GraphQL Queries from Natural Language Descriptions for Pediatric Cancer Data Commons**
 
-## Objective
-The primary goal of this pilot project was to build a functioning prototype chatbot capable of interpreting natural language input to extract patient cohort parameters (such as race, sex, ethnicity, age, and histology) and dynamically generating corresponding GraphQL queries to retrieve relevant patient data.
+---
 
-## Implementation Details
-- Built a **React.js** frontend for an intuitive user experience, allowing users to input casual, conversational-style queries.
-- Implemented a backend server in Node.js, using Apollo Server to handle GraphQL requests and interact with data sources.
-- Integrated a Large Language Model (LLM), specifically DeepSeek, to parse and translate natural language queries into structured filter criteria.
-- Demonstrated the successful parsing of user queries and dynamic construction of accurate GraphQL queries that return real-time filtered patient data.
+### **Project Overview**
+This pilot project demonstrates a functioning prototype chatbot designed to simplify the process of retrieving patient data from the Pediatric Cancer Data Commons (PCDC). Healthcare professionals can interact with patient datasets using natural language queries. This approach minimizes the complexity traditionally associated with manual UI navigation or direct query writing, enhancing user experience and accessibility.
 
-## Technical Stack
-- **Frontend:** React.js, Apollo Client, Bootstrap
-- **Backend:** Node.js, Apollo Server, GraphQL
-- **LLM Integration:** DeepSeek LLM via OpenRouter API
+### **Motivation and Objectives**
+The motivation behind this project is to simplify access to critical patient information in pediatric cancer research. Our key objective is:
 
-## Implementation Steps
-1. **Data Preparation:**
-   - Synthesized patient and histology datasets for testing.
+- To develop a chatbot that dynamically translates user-inputted natural language queries into GraphQL queries, significantly streamlining data retrieval for complex patient cohorts.
 
-2. **Backend Setup:**
-- Developed a GraphQL server with schema definitions and resolver logic.
-- Integrated Apollo Server to handle GraphQL API requests.
+### **Implementation and Technical Overview**
 
-3. **LLM Integration:**
-- Created a robust backend endpoint (`/api/parse-query`) using DeepSeek LLM.
-- Developed effective prompt engineering strategies to handle various natural language inputs.
+- **Frontend:**
+  - Built a responsive frontend interface using **React.js**, enabling intuitive natural language input from users.
 
-4. **Frontend Interface:**
-- Designed a user-friendly interface with a large textbox for natural language queries using React.js and Bootstrap.
-- Enabled real-time results visualization in tabular format.
+- **Backend Setup:**
+  - Implemented a **Node.js** server utilizing **Apollo Server** to manage GraphQL interactions seamlessly.
 
-## Achieved Outcomes
-- Successfully deployed an end-to-end working prototype.
-- Verified accurate extraction of filters from natural language queries.
-- Demonstrated real-time data retrieval and filtering from a GraphQL API.
+- **Integration with LLM (DeepSeek R1 via OpenRouter API):**
+  - Integrated **DeepSeek R1**, a robust Large Language Model (LLM), capable of effectively interpreting natural language inputs and translating them into structured queries for GraphQL.
 
-## Next Steps (for the Main Project)
-- Enhance the robustness of NLP parsing to handle more complex user queries.
-- Integrate advanced query generation for additional filters such as multiple histology conditions and age ranges.
-- Optimize API response times for larger datasets.
-- Develop an interactive user interface to further enrich user experience.
-- Implement detailed error handling and user feedback mechanisms.
+### **Pilot Data Preparation**
+- Created synthetic patient data aligned with PCDC schema specifications to test the prototype effectively.
+- Developed GraphQL schemas based on PCDC data structures, facilitating targeted queries across datasets like patient demographics and histology data.
 
-## Demo
-A detailed demonstration video of this pilot project is attached in the README file, showcasing end-to-end functionality from natural language input to data retrieval.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yq-q9Z-Tt6Q/0.jpg)](https://www.youtube.com/watch?v=Yq-q9Z-Tt6Q)
+### **Functionality Demonstration**
+The prototype currently supports:
+- Parsing natural language queries to dynamically generate GraphQL filters.
+- Efficiently retrieving and displaying filtered patient data.
 
-## Conclusion
-This pilot project successfully validates the core concept of the proposed GSoC project, confirming both its feasibility and value. The demo provides a clear pathway for further enhancements in the main project phase, aligning with Data for the Common Good’s mission to simplify and optimize patient cohort analysis workflows.
+### **Demonstrated Capabilities**
+- **Simple Queries:** Successfully retrieves patient records based on single-criteria filters (e.g., all female patients).
+- **Complex Queries:** Accurately handles queries involving multiple filter criteria such as race, ethnicity, age, and specific histology conditions.
+
+### **Demo Video:**
+[![GSoC Pilot Project Demo](https://img.youtube.com/vi/Yq-q9Z-Tt6Q/0.jpg)](https://www.youtube.com/watch?v=Yq-q9Z-Tt6Q)
+
+### **Future Improvements and Next Steps:**
+Potential enhancements to align closely with D4CG's objectives include:
+- **Advanced LLM Integration:** Explore other powerful LLMs (e.g., GPT-4 Turbo, Claude, Gemini) for improved accuracy and faster query parsing.
+- **Retrieval-Augmented Generation (RAG):** Enhance LLM outputs by integrating a retrieval-based approach to increase accuracy, especially in healthcare domains where precision is critical.
+- **Domain-Specific Hybrid Models:** Combine LLMs with rule-based systems for improved reliability and domain accuracy in patient data querying.
+- **Model Optimization (Quantization):** Investigate model optimization techniques like quantization to reduce query response times, providing faster results and improved user experiences.
+
+### **Technologies and Skills Utilized**
+- **Languages:** JavaScript (Node.js, React.js), GraphQL
+- **AI Technologies:** DeepSeek R1 LLM, NLP Processing
+
+### **Conclusion**
+This pilot successfully demonstrates the feasibility of using natural language interfaces combined with LLM-driven GraphQL query generation. Through iterative enhancements, including exploring advanced LLMs and hybrid approaches, this initiative will significantly streamline healthcare data access within Pediatric Cancer Data Commons, fulfilling the broader mission of Data for the Common Good.
 
