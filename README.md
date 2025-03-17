@@ -40,7 +40,7 @@ The prototype currently supports:
 - **Complex Queries:** Accurately handles queries involving multiple filter criteria such as race, ethnicity, age, and specific histology conditions.
 
 ### **Demo Video:**
-[![GSoC Pilot Project Demo](https://img.youtube.com/vi/Yq-q9Z-Tt6Q/0.jpg)](https://www.youtube.com/watch?v=Yq-q9Z-Tt6Q)
+[![GSoC Pilot Project Demo](https://img.youtube.com/vi/Yq-q9Z-Tt6Q/1.jpg)](https://www.youtube.com/watch?v=Yq-q9Z-Tt6Q)
 
 ### **Future Improvements and Next Steps:**
 Potential enhancements to align closely with D4CG's objectives include:
